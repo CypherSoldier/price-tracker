@@ -1,0 +1,161 @@
+[
+  {
+    "source": "Demo Store A",
+    "products": [
+      {
+        "name": "It's Only the Himalayas",
+        "price": "Â£45.17"
+      },
+      {
+        "name": "Full Moon over Noahâs Ark: An Odyssey to Mount Ararat and Beyond",
+        "price": "Â£49.43"
+      },
+      {
+        "name": "See America: A Celebration of Our National Parks & Treasured Sites",
+        "price": "Â£48.87"
+      },
+      {
+        "name": "Vagabonding: An Uncommon Guide to the Art of Long-Term World Travel",
+        "price": "Â£36.94"
+      },
+      {
+        "name": "Under the Tuscan Sun",
+        "price": "Â£37.33"
+      },
+      {
+        "name": "A Summer In Europe",
+        "price": "Â£44.34"
+      },
+      {
+        "name": "The Great Railway Bazaar",
+        "price": "Â£30.54"
+      },
+      {
+        "name": "A Year in Provence (Provence #1)",
+        "price": "Â£56.88"
+      },
+      {
+        "name": "The Road to Little Dribbling: Adventures of an American in Britain (Notes From a Small Island #2)",
+        "price": "Â£23.21"
+      },
+      {
+        "name": "Neither Here nor There: Travels in Europe",
+        "price": "Â£38.95"
+      },
+      {
+        "name": "1,000 Places to See Before You Die",
+        "price": "Â£26.08"
+      }
+    ]
+  },
+  {
+    "source": "Demo Store B",
+    "products": [
+      {
+        "name": "Soumission",
+        "price": "Â£50.10"
+      },
+      {
+        "name": "Private Paris (Private #10)",
+        "price": "Â£47.61"
+      },
+      {
+        "name": "We Love You, Charlie Freeman",
+        "price": "Â£50.27"
+      },
+      {
+        "name": "Thirst",
+        "price": "Â£17.27"
+      },
+      {
+        "name": "The Murder That Never Was (Forensic Instincts #5)",
+        "price": "Â£54.11"
+      },
+      {
+        "name": "Tuesday Nights in 1980",
+        "price": "Â£21.04"
+      },
+      {
+        "name": "The Vacationers",
+        "price": "Â£42.15"
+      },
+      {
+        "name": "The Regional Office Is Under Attack!",
+        "price": "Â£51.36"
+      },
+      {
+        "name": "Finders Keepers (Bill Hodges Trilogy #2)",
+        "price": "Â£53.53"
+      },
+      {
+        "name": "The Time Keeper",
+        "price": "Â£27.88"
+      },
+      {
+        "name": "The Testament of Mary",
+        "price": "Â£52.67"
+      },
+      {
+        "name": "The First Hostage (J.B. Collins #2)",
+        "price": "Â£25.85"
+      },
+      {
+        "name": "Take Me with You",
+        "price": "Â£45.21"
+      },
+      {
+        "name": "Still Life with Bread Crumbs",
+        "price": "Â£26.41"
+      },
+      {
+        "name": "Shtum",
+        "price": "Â£55.84"
+      },
+      {
+        "name": "My Name Is Lucy Barton",
+        "price": "Â£41.56"
+      },
+      {
+        "name": "My Mrs. Brown",
+        "price": "Â£24.48"
+      },
+      {
+        "name": "Mr. Mercedes (Bill Hodges Trilogy #1)",
+        "price": "Â£28.90"
+      },
+      {
+        "name": "I Am Pilgrim (Pilgrim #1)",
+        "price": "Â£10.60"
+      },
+      {
+        "name": "Eligible (The Austen Project #4)",
+        "price": "Â£27.09"
+      }
+    ]
+  },
+  {
+    "source": "Demo Store C",
+    "products": [
+      {
+        "name": "The Book of Basketball: The NBA According to The Sports Guy",
+        "price": "Â£44.84"
+      },
+      {
+        "name": "Friday Night Lights: A Town, a Team, and a Dream",
+        "price": "Â£51.22"
+      },
+      {
+        "name": "Sugar Rush (Offensive Line #2)",
+        "price": "Â£24.42"
+      },
+      {
+        "name": "Settling the Score (The Summer Games #1)",
+        "price": "Â£44.91"
+      },
+      {
+        "name": "Icing (Aces Hockey #2)",
+        "price": "Â£40.44"
+      }
+    ]
+  }
+]
